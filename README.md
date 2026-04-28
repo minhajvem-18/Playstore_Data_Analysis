@@ -4,7 +4,7 @@ This project analyzes Google Play Store data to find out what makes an app succe
 
 ## Dataset
 Around 10,354 apps across 33 categories and 119 genres.
-Source: [Kaggle](https://www.kaggle.com)
+Source: [Kaggle](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
 
 ## Tools Used
 Python, pandas, numpy, matplotlib, seaborn
